@@ -6,33 +6,36 @@ This is a simple **Airport Management System** written in Java using an SQLite d
 
 ## Project Structure
 
-AirportManagementSystem/
+airportmanagement/
+
+│
 
 ├── bin/
 
-│   ├── Airport.class                # Class handling airport operations
+│   ├── Airport.class
 
-│   ├── AirportManagement.class       # Main class that runs the system
+│   ├── AirportManagement.class
 
-│   ├── DatabaseHandler.class         # Class for handling SQLite database operations
-|
+│   ├── DatabaseHandler.class
+
+│   └── GUI.class
+
 │
 
 ├── src/
 
-│   ├── Airport.java                # Class handling airport operations
+│   ├── Airport.java
 
-│   ├── AirportManagement.java       # Main class that runs the system
+│   ├── AirportManagement.java
 
-│   ├── DatabaseHandler.java         # Class for handling SQLite database operations
+│   ├── DatabaseHandler.java
 
-├── sqlite-jdbc-3.46.1.3.jar         # SQLite JDBC driver
+│   └── GUI.java
 
-├── sqlite3.exe                      # SQLite executable (optional, for manual db interactions)
+│
 
-├── LICENSE
+└── sqlite-jdbc-3.46.1.3.jar
 
-└── README.md
 
 ## Requirements
 
@@ -73,7 +76,7 @@ The program provides a menu-driven interface. You can add flights, add passenger
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the (LICENSE) file for details.
 
 
 
