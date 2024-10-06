@@ -75,7 +75,7 @@ The program provides a menu-driven interface. You can add flights, add passenger
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+
 
 ### Key Points:
 
@@ -83,5 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **How to Run**: Includes commands for compiling and running the system.
 - **Usage**: Describes the basic operations in the program, making it easy for someone new to the project to understand how to use it.
 
-You can place this `README.md` file in the root directory of your project for easy reference.
-```
+
