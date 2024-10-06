@@ -1,12 +1,11 @@
 Here's a sample `README.md` file for your Airport Management System project:
 
-```markdown
+
 # Airport Management System
 
 This is a simple **Airport Management System** written in Java using an SQLite database. The system allows you to manage flight details and passenger information.
 
 
-```
 
 ## Project Structure
 
