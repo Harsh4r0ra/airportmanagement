@@ -11,7 +11,8 @@ This is a simple **Airport Management System** written in Java using an SQLite d
 ## Project Structure
 
 AirportManagementSystem/
-├── src/
+
+├── bin/
 
 │   ├── Airport.class                # Class handling airport operations
 
