@@ -11,14 +11,30 @@ This is a simple **Airport Management System** written in Java using an SQLite d
 ## Project Structure
 
 AirportManagementSystem/
-│
 ├── src/
+
+│   ├── Airport.class                # Class handling airport operations
+
+│   ├── AirportManagement.class       # Main class that runs the system
+
+│   ├── DatabaseHandler.class         # Class for handling SQLite database operations
+|
+│
+
+├── src/
+
 │   ├── Airport.java                # Class handling airport operations
+
 │   ├── AirportManagement.java       # Main class that runs the system
+
 │   ├── DatabaseHandler.java         # Class for handling SQLite database operations
+
 ├── sqlite-jdbc-3.46.1.3.jar         # SQLite JDBC driver
+
 ├── sqlite3.exe                      # SQLite executable (optional, for manual db interactions)
+
 ├── LICENSE
+
 └── README.md
 
 ## Requirements
